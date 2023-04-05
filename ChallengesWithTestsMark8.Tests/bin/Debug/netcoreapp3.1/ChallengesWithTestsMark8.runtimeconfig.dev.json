@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\wuzhizface\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\wuzhizface\\.nuget\\packages"
+      "C:\\Users\\jqcal\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jqcal\\.nuget\\packages"
     ]
   }
 }
